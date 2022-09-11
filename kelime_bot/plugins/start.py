@@ -21,7 +21,7 @@ keyboard = InlineKeyboardMarkup([
 
 
 START = """
-**🔮 Merhaba, Majeste Kelime Bota hoş geldin bu bot ile Kelime türet oyunu veya kelime anlatmaca oynayabilirsin..**
+**🔮 Merhaba, TTK Kelime Bota hoş geldin bu bot ile Kelime türet oyunu veya kelime anlatmaca oynayabilirsin..**
 
 ➤ Bilgi için 👉 /help Tıklayın. Komutlar kolay ve basittir. 
 """
